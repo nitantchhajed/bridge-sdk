@@ -20,19 +20,17 @@
 ## RUN THE WITHDRAW CODE. 
    - Make sure you have ETH in your `RACE-TESTNET account (0.15 will be fine)` as well as in Goerli Account. you can deposit on L2 
       by sending funds to `0xfEEE0247901eCE2FD8a72371e0C8F4F5b081CacA` this contract address from metamask.
+      
    - After Installing all the dependencies from `package.json` headover to `index.js` file.
-   - Fill all the required Parameters `private key`, `ETH Value` (0.1 would be fine).
-   - open the terminal and rund the code by `node index.js`.
+   - 
+   - Fill all the required Parameters inside the code `private key`, `ETH Value` (0.1 would be fine).
+   - 
+   - open the terminal and run the code by `node index.js`.
+   - 
    - this will take upto 30-45 minutes for ETH to appear on L1.
 
 
 
-
-
-
-
-
-## How does it work?
 
 
 
