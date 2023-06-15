@@ -19,7 +19,7 @@
 
 ## RUN THE WITHDRAW CODE. 
    - Make sure you have ETH in your `RACE-TESTNET account (0.15 will be fine)` as well as in Goerli Account. you can deposit on L2 
-      by sending funds to `0xfEEE0247901eCE2FD8a72371e0C8F4F5b081CacA` this contract address from metamask.
+      by sending funds to `0x40DB2D3424286bEc850Aeec030cA6cCf17D07636` this contract address from metamask.
       
    - After Installing all the dependencies from `package.json` headover to `index.js` file.
    - 
